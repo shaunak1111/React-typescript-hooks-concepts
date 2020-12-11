@@ -1,0 +1,15 @@
+.movie-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.movie-list {
+    /* margin-right: 2%; */
+    max-width: 18rem;
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+img { height: auto }
